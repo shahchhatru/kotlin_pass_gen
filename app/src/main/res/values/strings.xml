@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="plc_pass">Enter the length of password</string>
+</resources>

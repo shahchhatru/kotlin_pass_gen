@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="myStlye1">
+        <item name="android:layout_marginLeft">@dimen/small_gap</item>
+        <item name="android:layout_marginTop">@dimen/small_gap</item>
+        <item name="android:layout_marginRight">@dimen/large_gap</item>
+        <item name="android:layout_marginBottom">@dimen/large_gap</item>
+        <item name="android:paddingLeft">@dimen/small_gap</item>
+        <item name="android:paddingTop">@dimen/large_gap</item>
+        <item name="android:paddingEnd">@dimen/small_gap</item>
+        <item name="android:paddingBottom">@dimen/large_gap</item>
+        <item name="android:textColor">@color/purple_200</item>
+        <item name="android:textSize">20sp</item>
+
+    </style>
+
+</resources>
